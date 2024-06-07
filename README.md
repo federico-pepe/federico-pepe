@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Federico 👋
+
+I'm not a developer but I love working with code.
 
 <!--
 **federico-pepe/federico-pepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
